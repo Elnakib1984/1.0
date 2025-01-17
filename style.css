@@ -1,3 +1,23 @@
-h1{
-  color:green;
+body {
+  background-color: #f4f4f4;
+  color: #555555;
+
+  font-family: "Arial Black", Gadget, sans-serif;
+
+  font-size: 12px;
+  font-weight: bold;
+
+  line-height: 1.6em;
+  margin: 0;
+}
+
+.container{
+  width: 500px;
+  margin: auto;
+  
+}
+
+.box-1{
+  background-color: #333333;
+  color: #fff;
 }
