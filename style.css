@@ -101,5 +101,24 @@ body {
 
 }
 
+.my-form{
+  padding: 20px;
+}
+
+.my-form .form-group{
+  padding-bottom: 15px;
+}
+
+
+.my-form label{
+  display: block;
+}
+
+.my-form input [type = "text"], .my-form textarea {
+  padding: 8px;
+  width: 100%;
+}
+
+
 
 
