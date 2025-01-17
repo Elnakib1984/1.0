@@ -18,7 +18,7 @@ a:active{
 }
 
 a:visited{
-  color: darkcyan;
+  color: black;
 }
 
 
@@ -90,7 +90,16 @@ body {
 
 .categories ul{
   padding: 0;
+  padding-left: 20px;
   list-style: square;
   list-style: none;
 }
+
+.categories li{
+  padding-bottom: 6px;
+  border-bottom: dotted 1px #333333;
+
+}
+
+
 
