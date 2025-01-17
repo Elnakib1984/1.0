@@ -12,12 +12,17 @@ body {
 }
 
 .container{
-  width: 500px;
-  margin: auto;
-  
+  width: 80%;
+  margin: auto; /*Spacing around an element*/
 }
 
 .box-1{
   background-color: #333333;
   color: #fff;
+  border-right: 5px red solid;
+
+  border-width: 3px;
+  border-bottom-width: 10px;
+  border-top-style: dotted;
+  
 }
